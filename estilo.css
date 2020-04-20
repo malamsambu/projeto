@@ -1,0 +1,14 @@
+h1 {
+    background-color: blue;
+}
+
+div {
+    background-color: brown;
+}
+
+span {
+    background-color: burlywood;
+    border: solid 100px red;
+    margin: 100px;
+    height: 200;
+}
